@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="trainees.xsl"?>
+
 <trainees>
 
+    <trainee>
+        <name>Sara</name>
+        <email>sa24@ic.edu.sa</email>
+        <corse>SD</corse>
+    </trainee>
 
-<trainee>
-<name>Rama</name>
-<email>kh242338@gmail.com</email>
-<corse>sd</corse>
+    <trainee>
+        <name>Raghad</name>
+        <email>ra22@ic.edu.sa</email>
+        <corse>IT</corse>
+    </trainee>
 
-</trainee>
+    <trainee>
+        <name>Shahad</name>
+        <email>sh21@ic.edu.sa</email>
+        <corse>GD</corse>
+    </trainee>
 
-<trainee>
-<name>Maysan</name>
-<email>kh242337@gmail.com</email>
-<corse>gr</corse>
-
-</trainee>
 </trainees>
